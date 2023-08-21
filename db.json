@@ -1,0 +1,71 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 2,
+      "name": "Turkey"
+    },
+    {
+      "name": "Netherland",
+      "id": 4
+    },
+    {
+      "name": "Spain",
+      "id": 6
+    },
+    {
+      "name": "Germany",
+      "id": 7
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Baku",
+      "country_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Anakara",
+      "country_id": 2
+    },
+    {
+      "name": "Istanbul",
+      "country_id": 2,
+      "id": 3
+    },
+    {
+      "name": "Izmir",
+      "country_id": 2,
+      "id": 4
+    },
+    {
+      "name": "Sumgait",
+      "country_id": 1,
+      "id": 5
+    },
+    {
+      "name": "Quba",
+      "country_id": 1,
+      "id": 6
+    },
+    {
+      "name": "Ganja",
+      "country_id": 1,
+      "id": 7
+    },
+    {
+      "name": "Madrid",
+      "country_id": 6,
+      "id": 8
+    },
+    {
+      "name": "Dortmutd",
+      "country_id": 7,
+      "id": 9
+    }
+  ]
+}
