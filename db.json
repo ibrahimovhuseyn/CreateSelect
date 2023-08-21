@@ -19,6 +19,10 @@
     {
       "name": "Germany",
       "id": 7
+    },
+    {
+      "name": "Italy",
+      "id": 8
     }
   ],
   "cities": [
@@ -66,6 +70,16 @@
       "name": "Dortmutd",
       "country_id": 7,
       "id": 9
+    },
+    {
+      "name": "Berlin",
+      "country_id": 7,
+      "id": 10
+    },
+    {
+      "name": "Roma",
+      "country_id": 8,
+      "id": 11
     }
   ]
 }

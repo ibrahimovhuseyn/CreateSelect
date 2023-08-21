@@ -43,6 +43,8 @@ function Selection() {
         setCountry(prevState=>[...prevState, res.data])
       })
       setCountryName("")
+      toast.success("Successfully operation", toastConfiq)
+
     }
 
     const addCity = ()=>{
@@ -63,6 +65,7 @@ function Selection() {
         setCity(prevstate=>[...prevstate, res.data])
       })
       setCityName("")
+      toast.success("Successfully operation", toastConfiq)
     }
   
   
