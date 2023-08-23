@@ -80,6 +80,11 @@
       "name": "Roma",
       "country_id": 8,
       "id": 11
+    },
+    {
+      "name": "Barcelona",
+      "country_id": 6,
+      "id": 12
     }
   ]
 }
